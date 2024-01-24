@@ -1,0 +1,41 @@
+h1{
+    color:rebeccapurple;
+    text-align: center;
+    font-style: italic;
+}
+body{
+    background-color: rgb(253, 250, 250);
+}
+h3{
+    text-align: 50%;
+    
+}
+div{
+    color: rgb(186, 97, 131);
+    margin-left: 10%;
+    margin-top: 50%;
+    width: 50%;
+    margin-bottom: 25%;
+    position:relative; left:80px; top:2px;
+}
+.class{
+    padding: 5px;
+    border:20px solid red
+}
+div {
+    font-family: "Rubik Doodle Shadow", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    
+  }
+.main{
+    width: 200px;
+    height: 200px;
+    border: 10px solid white;
+    background-color: blueviolet;
+}
+.line1{
+    position: absolute;
+    left: 50px;
+}
+  
